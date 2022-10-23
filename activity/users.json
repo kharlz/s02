@@ -1,0 +1,38 @@
+{
+	"id": "user1",
+	"username": "helbram12",
+	"firstname": "Carl",
+	"lastname": "Dela Cruz",
+	"email": "carldc@gmail.com",
+	"password": "12345",
+	"mobileNumber": "0123456789",
+	"isAdmin": "false",
+	"enrollments": [
+		{
+
+			"id": "enrollment1-user1",
+			"courseId": "course1",			
+			"dateEnrolled": "01/15/2022",
+			"isPaid": "true"
+		}
+	]
+},
+user {
+	"id": "user2",
+	"username": "jojo123",
+	"firstname": "Jojo",
+	"lastname": "Cruz",
+	"email": "jojocruz@gmail.com",
+	"password": "ojoj321",
+	"mobileNumber": "01234567891",
+	"isAdmin": "false",
+	"enrollments": [
+		{
+
+			"id": "enrollment1-user2",
+			"courseId": "course2",			
+			"dateEnrolled": "01/17/2022",
+			"isPaid": "true"
+		}
+	]
+}
